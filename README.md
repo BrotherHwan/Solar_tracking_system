@@ -8,7 +8,6 @@
 아두이노는 서버와 와이파이로 연결하여 조도측정 및 모터구동을 하고 여러데이터를 서버로 전송하는 역할을 했습니다. 
 또 다른 아두이노는 서버와 블루투스로 연결하여 충전상태를 LCD패널에 표시하도록 했습니다.
 ## 시연영상
+https://github.com/BrotherHwan/Solar_tracking_system/assets/153490865/ed531919-3caa-4edd-a830-7c9c4232962a
 
-
-https://github.com/BrotherHwan/Solar_tracking_system/assets/153490865/5795e657-8776-4eac-ab6d-906464c01dbb
 
