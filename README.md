@@ -11,8 +11,12 @@
 https://github.com/BrotherHwan/Solar_tracking_system/assets/153490865/0f6c610a-528c-4a21-8bea-9ea8492f2c7c
 오토모드 
 
+
+
+
 https://github.com/BrotherHwan/Solar_tracking_system/assets/153490865/0e5c2aeb-058e-4a39-ac40-e5fdf963d634
-유사시 원하는 각도를 입력하여 직접 컨트롤 할 수있는 메뉴얼모드. 마지막에는 다시 오토모드로 돌리는 모습.
+유사시 원하는 각도를 입력하여 직접 컨트롤 할 수있는 메뉴얼모드. 
+마지막에는 다시 오토모드로 돌리는 모습.
 
 
 
