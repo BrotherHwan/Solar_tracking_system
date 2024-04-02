@@ -4,7 +4,7 @@
 ## 사용 디바이스
 라즈베리파이, 아두이노2개, 조도센서, 서보모터, 태양광패널, 인체감지센서, 부저, LCD패널, 블루투스 모듈, 와이파이 모듈
 ## 시연영상
-<img src = "./solar_tracking_auto.gif" width=300>
+<img src = "./solar_tracking_auto.gif" width=300 height=300>
 
 
 
