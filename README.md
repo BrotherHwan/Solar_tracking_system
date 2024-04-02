@@ -7,6 +7,8 @@
 ### auto mode
 <img src = "./solar_tracking_auto.gif" width=300 height=400>
 
+### manual mode - 유사시에 원하는 각도로 직접 조절. 마지막에는 다시 auto모드를 켜는 모습.
+
 
 
 
