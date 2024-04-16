@@ -8,17 +8,17 @@
 ## 개발환경
 arduino ide, raspberry pi os(linux)
 ## 흐름도
-<img src="./Solar_flow.png">
+<img src="./image_video/Solar_flow.png">
 
 ## High Level Design
-<img src="./Solar_HLD.png">
+<img src="./image_video/Solar_HLD.png">
 
 ## 시연영상
 ### auto mode
-<img src="./solar_tracking_auto.gif" width=300 height=400>
+<img src="./image_video/solar_tracking_auto.gif" width=300 height=400>
 
 ### manual mode - 유사시에 원하는 각도로 직접 조절. 마지막에는 다시 auto모드를 켜는 모습.
-<img src="./solar_tracking_manual.gif" width=300 height=400>
+<img src="./image_video/solar_tracking_manual.gif" width=300 height=400>
 
 ## 데이터베이스
 
