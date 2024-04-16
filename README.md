@@ -9,6 +9,7 @@
 arduino ide, raspberry pi os(linux)
 ## High Level Design
 <img src="./Solar_HLD.png">
+
 ## 시연영상
 ### auto mode
 <img src="./solar_tracking_auto.gif" width=300 height=400>
