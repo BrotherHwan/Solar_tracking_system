@@ -4,9 +4,11 @@
 이 프로젝트에서는 태양이 어디로 이동하던 실시간으로 추적할 수 있도록 하는것을 목표로 했습니다.<br/> 
 이는 드론이나 자동차등 이동형 모빌리티에 사용될 수 있습니다.
 ## 사용 디바이스
-라즈베리파이, 아두이노2개, 조도센서, 서보모터, 태양광패널, 인체감지센서, 부저, LCD패널, 블루투스 모듈, 와이파이 모듈
+라즈베리파이, 아두이노2개(wifi, bluetooth), 조도센서, 서보모터, 태양광패널, 인체감지센서, 부저, LCD패널, 블루투스 모듈, 와이파이 모듈
+## 개발환경
+arduino ide, raspberry pi os(linux)
 ## High Level Design
-업데이트 예정
+<img src="./Solar_HLD.png">
 ## 시연영상
 ### auto mode
 <img src="./solar_tracking_auto.gif" width=300 height=400>
