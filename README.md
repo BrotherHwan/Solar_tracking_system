@@ -11,7 +11,7 @@ arduino ide, raspberry pi os(linux)
 <img src="./image_video/Solar_flow.png">
 
 ## High Level Design
-<img src="./image_video/Solar_HLD.png">
+<img src="./image_video/solar_HLD.png">
 
 ## 시연영상
 ### auto mode
