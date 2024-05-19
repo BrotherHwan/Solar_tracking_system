@@ -17,12 +17,12 @@ arduino ide, raspberry pi os(linux)
 ### auto mode
 <img src="./image_video/solar_tracking_auto.gif" width=300 height=400>
 원본영상(이 링크의 raw file 다운로드시 좀 더 크고 명확한 영상을 확인하실 수 있습니다. ) :
-https://github.com/BrotherHwan/Solar_tracking_system/blob/main/image_video/solar_tracking_auto.mp4
+[auto](https://github.com/BrotherHwan/Solar_tracking_system/blob/main/image_video/solar_tracking_auto.mp4)
 
 ### manual mode - 유사시에 원하는 각도로 직접 조절. 마지막에는 다시 auto모드를 켜는 모습.
 <img src="./image_video/solar_tracking_manual.gif" width=300 height=400>
 원본영상 :
-https://github.com/BrotherHwan/Solar_tracking_system/blob/main/image_video/solar_tracking_manual.mp4
+[manual](https://github.com/BrotherHwan/Solar_tracking_system/blob/main/image_video/solar_tracking_manual.mp4)
 
 
 
