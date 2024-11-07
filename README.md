@@ -11,7 +11,10 @@ arduino ide, raspberry pi os(linux)
 <img src="./image_video/Solar_flow.png">
 
 ## High Level Design
-<img src="./image_video/solar_HLD.png">
+<img src="./image_video/solar_HLD.png"> 
+
+## 수행역할
+조도센서에 따른 모터이동각 제어 알고리즘을 구현했습니다.
 
 ## 시연영상
 ### auto mode
