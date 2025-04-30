@@ -14,6 +14,9 @@ arduino ide, raspberry pi os(linux)
 ## 수행역할
 조도센서에 따른 모터이동각 제어 알고리즘을 구현
 
+## 결과
+배터리 충전시간 25% 감소 
+
 ## 시연영상
 ### auto mode
 <img src="./image_video/solar_tracking_auto.gif" width=300 height=400>
